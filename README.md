@@ -32,7 +32,7 @@
 
 ## 5.示范
 
-'''
+ ```python
 import cv2
 
 # 读取待检测的图像
@@ -63,4 +63,4 @@ cv2.imwrite("re.jpg",image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
-'''
+ ```
